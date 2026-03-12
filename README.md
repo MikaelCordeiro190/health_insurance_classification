@@ -59,6 +59,6 @@ CRISP-DM:
 
 <img width="801" height="383" alt="image" src="https://github.com/user-attachments/assets/d6ff69b8-edfd-4846-8095-ebe0cbb36a2b" />
 
-
+# Definição de Modelos de Machine Learning
 
 
