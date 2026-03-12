@@ -1,4 +1,3 @@
-# health_insurance_classification
 # Problema de Negócio
 Identificar quais clientes têm maior probabilidade de adquirir um Seguro de Saúde, utilizando padrões históricos e comportamentais para orientar estratégias comerciais da seguradora. A meta é priorizar campanhas e abordagens direcionadas, aumentando a taxa de conversão e otimizando recursos de marketing e vendas.
 
