@@ -112,5 +112,16 @@ Mede o ganho do modelo em relação a uma seleção aleatória, indicando quão 
 
 Foi empregada a técnica de Random Search para otimizar a busca dos melhores hiperparâmetros. A fim de identificar o parâmetro ideal, optei por utilizar uma amostra referente a um período de 1 ano. Essa escolha permite aumentar o número de iterações em um espaço de tempo reduzido, maximizando a probabilidade de localizar um mínimo global.
 
+# Resultados 
+
+Qual é a proporção de clientes que demonstram interesse em contratar o seguro automotivo? A equipe de vendas consegue alcançá-los com 20.000 ligações?  
+i. O banco de dados contém 46.876 clientes (12,3%) com interesse em planos de saúde e 334.232 (87,7%) sem interesse.
+ii. O modelo apresenta uma taxa de acerto de 24,10% (24,14% em cenário favorável e 24,06% em cenário desfavorável). Com esse desempenho, em 20.000 chamadas, a equipe consegue falar com cerca de 4.820 clientes interessados (variando entre 4.812 e 4.828). O recall é bastante alto, em torno de 98,31% (±0,0016).
+
+Se a equipe tiver capacidade para realizar 40.000 chamadas, quantos clientes interessados em seguro automotivo poderão ser contatados?  
+Com 40.000 ligações, o modelo permite alcançar aproximadamente 9.640 clientes interessados (entre 9.624 e 9.656, dependendo do desempenho).
+
+Quantas chamadas são necessárias para atingir 80% dos clientes que desejam adquirir o seguro automotivo?  
+O modelo conseguiu identificar 98,31% dos clientes interessados (46.084 pessoas) dentro de um universo de 381.109 clientes. Para chegar a 80% dos interessados, é preciso realizar cerca de 155.064 chamadas, garantindo contato com aproximadamente 37.501 clientes.
 
 
