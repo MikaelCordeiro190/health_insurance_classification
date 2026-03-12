@@ -39,4 +39,10 @@ CRISP-DM:
 
 <img width="895" height="639" alt="image" src="https://github.com/user-attachments/assets/d24a54f2-3b8d-4899-9a94-aa6a115dcf2b" />
 
+# Análise Exploratorio de Dados
+Quanto mais velho o cliente, maior é a possibilidade de querer um plano de saúde.
+  Falso: As pessoas entre 40 e 50 estão mais interessadas em ter plano de saúde.
+<img width="804" height="383" alt="image" src="https://github.com/user-attachments/assets/5ba44ec7-31c9-45ed-be2b-54d7fd46ab57" />
+
+
 
