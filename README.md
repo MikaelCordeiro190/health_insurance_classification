@@ -61,4 +61,18 @@ CRISP-DM:
 
 # Definição de Modelos de Machine Learning
 
+No primeiro ciclo do projeto, foram selecionados cinco algoritmos para teste, visando identificar o algoritmo com melhor desempenho e custo de implementação. Nessa etapa inicial, optou-se pela simplicidade, considerando que era o primeiro ciclo do projeto e o objetivo principal era entregar uma solução mínima utilizável para a equipe de negócios e pelo CFO.
+
+Os algotitmos selecionados foram: 
+
+* K-Nearest Neighbors (KNN)
+
+* Logistic Regression
+
+* Extra Trees Classifier
+
+* Random Forest
+
+* LightGBM (LGBM)
+
 
