@@ -116,7 +116,9 @@ Foi empregada a técnica de Random Search para otimizar a busca dos melhores hip
 
 Qual é a proporção de clientes que demonstram interesse em contratar o seguro automotivo? A equipe de vendas consegue alcançá-los com 20.000 ligações?  
 i. O banco de dados contém 46.876 clientes (12,3%) com interesse em planos de saúde e 334.232 (87,7%) sem interesse.
+
 ii. O modelo apresenta uma taxa de acerto de 52,3% (52,3% em cenário favorável e 51.7% em cenário desfavorável). Com esse desempenho, em 20.000 chamadas, a equipe consegue falar com cerca de 4.820 clientes interessados (variando entre 4.812 e 4.828). O recall é bastante alto, em torno de 98,31% (±0,0016).
+
 
 Se a equipe tiver capacidade para realizar 40.000 chamadas, quantos clientes interessados em seguro automotivo poderão ser contatados?  
 Com 40.000 ligações, o modelo permite alcançar aproximadamente 9.640 clientes interessados (entre 9.624 e 9.656, dependendo do desempenho).
