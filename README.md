@@ -40,11 +40,25 @@ CRISP-DM:
 <img width="895" height="639" alt="image" src="https://github.com/user-attachments/assets/d24a54f2-3b8d-4899-9a94-aa6a115dcf2b" />
 
 # Análise Exploratorio de Dados
-Quanto mais velho o cliente, maior é a possibilidade de querer um plano de saúde.
 
-_Falso_: As pessoas entre 40 e 50 estão mais interessadas em ter plano de saúde.
+1.0 Quanto mais velho o cliente, maior é a possibilidade de querer um plano de saúde.
+
+**Falso**: As pessoas entre 40 e 50 estão mais interessadas em ter plano de saúde.
   
 <img width="804" height="383" alt="image" src="https://github.com/user-attachments/assets/5ba44ec7-31c9-45ed-be2b-54d7fd46ab57" />
+
+2.0 Clientes com seguro de carro são mais tímidos para obter seguro de saúde.
+
+**Falso**: Clientes sem seguro de carro são mais propensos a obter seguro de saúde. Neste banco de dados, 99,7% dos clientes estão segurados anteriormente.
+
+<img width="801" height="387" alt="image" src="https://github.com/user-attachments/assets/13afa4be-eb58-4906-b6d6-71dc33c288f8" />
+
+3.0 Gênero influencia a adesão ao seguro de saúde
+
+**Verdadeiro**: Clientes do gênero masculino apresentam maior propensão a adquirir o seguro de saúde em comparação com clientes do gênero feminino.
+
+<img width="533" height="383" alt="image" src="https://github.com/user-attachments/assets/d6ff69b8-edfd-4846-8095-ebe0cbb36a2b" />
+
 
 
 
