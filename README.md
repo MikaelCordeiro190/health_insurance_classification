@@ -93,6 +93,21 @@ Dessa forma, a Regressão Logística foi selecionada como o modelo final do proj
 
 <img width="351" height="56" alt="image" src="https://github.com/user-attachments/assets/c0724a3f-7f99-46ba-b315-1dffedcba394" />
 
+# Curvas de Rankeamento
+
+## Cummulative Curve Manually
+
+Avalia o desempenho acumulado do modelo, mostrando como a taxa de acertos evolui conforme aumentamos a proporção de casos analisados.
+
+<img width="1002" height="519" alt="image" src="https://github.com/user-attachments/assets/bf2f6d60-3173-48ff-96d8-2b71c2d8eaf0" />
+
+## Lift Curve Manually
+
+Mede o ganho do modelo em relação a uma seleção aleatória, indicando quão melhor ele identifica positivos em diferentes faixas de probabilidade.
+
+<img width="996" height="522" alt="image" src="https://github.com/user-attachments/assets/8de1ed4c-d90d-40c2-a312-aa591b12b90b" />
+
+
 # Hiperparâmetros
 
 Foi empregada a técnica de Random Search para otimizar a busca dos melhores hiperparâmetros. A fim de identificar o parâmetro ideal, optei por utilizar uma amostra referente a um período de 1 ano. Essa escolha permite aumentar o número de iterações em um espaço de tempo reduzido, maximizando a probabilidade de localizar um mínimo global.
